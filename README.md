@@ -4,9 +4,10 @@ A static website that maps equations of the NIST
 [Digital Library of Mathematical Functions](https://dlmf.nist.gov/) (DLMF) to Lean 4
 declarations in [Mathlib](https://github.com/leanprover-community/mathlib4),
 [TauCeti](https://github.com/TauCetiProject/TauCeti) and
-[lean-DLMF](https://github.com/bjbraams/lean-DLMF), and that lists Mathlib declarations which
-are candidates for Mathlib's `@[dlmf]` cross-reference attribute. It is unofficial and not
-affiliated with NIST.
+[lean-DLMF](https://github.com/bjbraams/lean-DLMF) (other sources to follow),
+and that lists Mathlib declarations which are candidates for Mathlib's `@[dlmf]`
+cross-reference attribute.
+It is unofficial and not affiliated with NIST.
 
 Pages (published from `docs/` by GitHub Pages):
 
